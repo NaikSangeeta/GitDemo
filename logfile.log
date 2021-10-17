@@ -1,0 +1,72 @@
+2021-09-26 21:59:07,142 :INFO :test_e2e :Getting all the card details
+2021-09-26 21:59:07,362 :INFO :test_e2e :iphone X
+2021-09-26 21:59:07,393 :INFO :test_e2e :Samsung Note 8
+2021-09-26 21:59:07,440 :INFO :test_e2e :Nokia Edge
+2021-09-26 21:59:07,471 :INFO :test_e2e :Blackberry
+2021-09-26 21:59:08,927 :INFO :test_e2e :Entering country name as ind'
+2021-09-26 21:59:15,907 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-26 22:03:02,866 :INFO :test_e2e :Getting all the card details
+2021-09-26 22:03:03,076 :INFO :test_e2e :iphone X
+2021-09-26 22:03:03,117 :INFO :test_e2e :Samsung Note 8
+2021-09-26 22:03:03,153 :INFO :test_e2e :Nokia Edge
+2021-09-26 22:03:03,193 :INFO :test_e2e :Blackberry
+2021-09-26 22:03:05,893 :INFO :test_e2e :Entering country name as ind'
+2021-09-26 22:03:14,084 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-26 22:11:10,013 :INFO :test_formSubmission :First Name  is Sangeeta
+2021-09-26 22:11:10,249 :INFO :test_formSubmission :Email  is Naik
+2021-09-26 22:11:11,415 :INFO :test_formSubmission :First Name  is krishna
+2021-09-26 22:11:11,415 :INFO :test_formSubmission :First Name  is krishna
+2021-09-26 22:11:11,543 :INFO :test_formSubmission :Email  is Sonwalkar
+2021-09-26 22:11:11,543 :INFO :test_formSubmission :Email  is Sonwalkar
+2021-09-26 22:11:19,071 :INFO :test_e2e :Getting all the card details
+2021-09-26 22:11:19,112 :INFO :test_e2e :iphone X
+2021-09-26 22:11:19,127 :INFO :test_e2e :Samsung Note 8
+2021-09-26 22:11:19,158 :INFO :test_e2e :Nokia Edge
+2021-09-26 22:11:19,174 :INFO :test_e2e :Blackberry
+2021-09-26 22:11:19,483 :INFO :test_e2e :Entering country name as ind
+2021-09-26 22:11:25,418 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-09-26 22:16:06,927 :INFO :test_formSubmission :First Name  is Sangeeta
+2021-09-26 22:16:07,118 :INFO :test_formSubmission :Email  is Naik
+2021-09-26 22:16:08,376 :INFO :test_formSubmission :First Name  is krishna
+2021-09-26 22:16:08,376 :INFO :test_formSubmission :First Name  is krishna
+2021-09-26 22:16:08,491 :INFO :test_formSubmission :Email  is Sonwalkar
+2021-09-26 22:16:08,491 :INFO :test_formSubmission :Email  is Sonwalkar
+2021-09-26 22:16:18,617 :INFO :test_e2e :Getting all the card details
+2021-09-26 22:16:18,689 :INFO :test_e2e :iphone X
+2021-09-26 22:16:18,713 :INFO :test_e2e :Samsung Note 8
+2021-09-26 22:16:18,737 :INFO :test_e2e :Nokia Edge
+2021-09-26 22:16:18,761 :INFO :test_e2e :Blackberry
+2021-09-26 22:16:19,200 :INFO :test_e2e :Entering country name as ind
+2021-09-26 22:16:25,140 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-13 23:14:35,591 :INFO :test_formSubmission :First Name  is Sangeeta
+2021-10-13 23:14:36,310 :INFO :test_formSubmission :Email  is Naik
+2021-10-13 23:14:39,396 :INFO :test_formSubmission :First Name  is krishna
+2021-10-13 23:14:39,396 :INFO :test_formSubmission :First Name  is krishna
+2021-10-13 23:14:39,539 :INFO :test_formSubmission :Email  is Sonwalkar
+2021-10-13 23:14:39,539 :INFO :test_formSubmission :Email  is Sonwalkar
+2021-10-13 23:14:54,677 :INFO :test_e2e :Getting all the card details
+2021-10-13 23:14:54,975 :INFO :test_e2e :iphone X
+2021-10-13 23:14:55,011 :INFO :test_e2e :Samsung Note 8
+2021-10-13 23:14:55,043 :INFO :test_e2e :Nokia Edge
+2021-10-13 23:14:55,074 :INFO :test_e2e :Blackberry
+2021-10-13 23:14:56,025 :INFO :test_e2e :Entering country name as ind
+2021-10-13 23:15:02,120 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-10-15 12:17:07,278 :INFO :test_formSubmission :First Name  is Sangeeta
+2021-10-15 12:17:09,883 :INFO :test_formSubmission :Email  is Naik
+2021-10-15 12:17:13,756 :INFO :test_formSubmission :First Name  is krishna
+2021-10-15 12:17:13,756 :INFO :test_formSubmission :First Name  is krishna
+2021-10-15 12:17:13,894 :INFO :test_formSubmission :Email  is Sonwalkar
+2021-10-15 12:17:13,894 :INFO :test_formSubmission :Email  is Sonwalkar
+2021-10-15 12:17:28,629 :INFO :test_e2e :Getting all the card details
+2021-10-15 12:17:28,966 :INFO :test_e2e :iphone X
+2021-10-15 12:17:28,981 :INFO :test_e2e :Samsung Note 8
+2021-10-15 12:17:29,013 :INFO :test_e2e :Nokia Edge
+2021-10-15 12:17:29,028 :INFO :test_e2e :Blackberry
+2021-10-15 12:17:30,745 :INFO :test_e2e :Entering country name as ind
+2021-10-15 12:17:39,591 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
